@@ -550,4 +550,6 @@ Children:
       DataType: FontWeightEnum
       ModellingRule: Optional
       Value: 700
+  - Name: RuntimeNetLogic1
+    Type: NetLogic
 - File: Screens/Screens.yaml
